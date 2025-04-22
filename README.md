@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">Purna.tech</a>
+  <a href="https://my-portfolio-web-eight-topaz.vercel.app/" target="_blank">Purna.tech</a>
 </h2>
 
 <br/>
@@ -15,7 +15,7 @@
 
 
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/PurnaSaradhi18/portfolio-web). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [PurnaSaradhi18](https://github.com/PurnaSaradhi18/portfolio-web). Thanks!
 
 
 This project was built using these technologies.
