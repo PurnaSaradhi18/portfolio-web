@@ -4,7 +4,10 @@ import { Container, Row, Col } from "react-bootstrap";
 import myPhoto from "../../Assets/myPhoto.png";
 import Particle from "../Particle";
 import Home2 from "./Home2";
+import About from "../About/About";
 import Type from "./Type";
+import Projects from "../Projects/Projects";
+import ResumeNew from "../Resume/ResumeNew";
 
 function Home() {
   return (
@@ -57,6 +60,9 @@ function Home() {
           </Row>
         </Container>
       </Container>
+      <About />
+      <Projects />
+      <ResumeNew />
       <Home2 />
     </section>
   );

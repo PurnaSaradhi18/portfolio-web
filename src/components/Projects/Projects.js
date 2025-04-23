@@ -8,6 +8,7 @@ import lms from "../../Assets/Projects/lms.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import task from "../../Assets/Projects/task.png";
+import Certifications from "../certifications";
 
 function Projects() {
   return (
@@ -88,6 +89,7 @@ function Projects() {
           </Col>
         </Row>
       </Container>
+      <Certifications />
     </Container>
   );
 }
