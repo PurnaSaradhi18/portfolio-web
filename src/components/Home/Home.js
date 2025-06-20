@@ -26,10 +26,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name">
-                  {" "}
-                  Purna Saradhi Chinthapalli
-                </strong>
+                <strong className="main-name"> Purna Saradhi Chinthapalli</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -54,7 +51,7 @@ function Home() {
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
-                style={{ maxHeight: "250px" }}
+                style={{ maxHeight: "380px" }}
               /> */}
             </Col>
           </Row>

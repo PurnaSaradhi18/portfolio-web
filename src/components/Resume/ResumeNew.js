@@ -18,7 +18,7 @@ function ResumeNew() {
   return (
     <div>
       <h1 className="project-heading">
-          My <strong className="purple">Resume </strong>
+        My <strong className="purple">Resume </strong>
       </h1>
       <Container fluid className="resume-section">
         <Particle />
